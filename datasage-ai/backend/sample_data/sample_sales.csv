@@ -1,0 +1,401 @@
+Date,Region,City,Category,UnitsSold,Revenue,CustomerRating
+2024-01-01,North,Delhi,Sports,7,2540.81,3.0
+2024-01-02,North,Lucknow,Apparel,6,1795.59,3.9
+2024-01-03,North,Lucknow,Electronics,11,13092.25,3.3
+2024-01-04,East,Kolkata,Sports,7,2390.97,3.4
+2024-01-05,South,Bengaluru,Electronics,8,11157.75,3.6
+2024-01-06,East,Kolkata,Sports,12,3072.87,3.6
+2024-01-07,East,Guwahati,Home & Kitchen,12,5493.04,4.4
+2024-01-08,North,Lucknow,Electronics,7,10520.29,3.3
+2024-01-09,North,Chandigarh,Electronics,10,13028.84,3.6
+2024-01-10,South,Hyderabad,Electronics,13,15212.06,4.1
+2024-01-11,South,Hyderabad,Sports,7,2406.1,5.0
+2024-01-12,South,Hyderabad,Apparel,9,2918.43,4.6
+2024-01-13,East,Bhubaneswar,Electronics,9,9978.59,4.7
+2024-01-14,East,Kolkata,Home & Kitchen,10,4245.62,3.8
+2024-01-15,East,Kolkata,Electronics,9,12528.94,4.1
+2024-01-16,West,Pune,Electronics,13,15699.14,3.0
+2024-01-17,North,Delhi,Electronics,8,9628.29,4.1
+2024-01-18,West,Pune,Home & Kitchen,8,4451.25,4.0
+2024-01-19,North,Lucknow,Sports,11,3357.02,3.4
+2024-01-20,East,Kolkata,Electronics,6,9629.35,4.4
+2024-01-21,East,Guwahati,Sports,8,3043.97,4.2
+2024-01-22,South,Chennai,Apparel,9,2013.24,4.8
+2024-01-23,North,Lucknow,Apparel,8,1798.79,4.7
+2024-01-24,East,Kolkata,Electronics,14,14890.97,3.0
+2024-01-25,West,Mumbai,Beauty,8,1857.35,4.3
+2024-01-26,South,Bengaluru,Home & Kitchen,12,4847.65,4.8
+2024-01-27,South,Hyderabad,Apparel,13,3284.88,3.8
+2024-01-28,West,Mumbai,Electronics,6,8980.61,4.0
+2024-01-29,South,Chennai,Electronics,9,13125.16,4.8
+2024-01-30,East,Kolkata,Home & Kitchen,8,3958.47,4.0
+2024-01-31,West,Mumbai,Sports,10,3606.8,3.0
+2024-02-01,West,Pune,Apparel,10,2488.52,4.3
+2024-02-02,North,Delhi,Apparel,10,2295.1,3.3
+2024-02-03,South,Hyderabad,Apparel,8,2422.14,3.3
+2024-02-04,North,Chandigarh,Sports,10,3702.63,4.2
+2024-02-05,North,Delhi,Beauty,10,2214.68,3.9
+2024-02-06,South,Bengaluru,Beauty,6,1463.69,3.7
+2024-02-07,West,Pune,Apparel,15,3244.92,4.0
+2024-02-08,West,Mumbai,Electronics,6,10156.83,4.4
+2024-02-09,North,Lucknow,Apparel,7,1860.81,4.8
+2024-02-10,South,Chennai,Beauty,6,1373.45,4.1
+2024-02-11,South,Bengaluru,Electronics,11,15113.68,4.1
+2024-02-12,North,Chandigarh,Home & Kitchen,9,4774.31,3.4
+2024-02-13,East,Kolkata,Electronics,8,9543.18,3.8
+2024-02-14,North,Delhi,Apparel,15,3319.13,3.0
+2024-02-15,South,Hyderabad,Electronics,14,15459.66,4.7
+2024-02-16,East,Bhubaneswar,Electronics,13,14734.23,4.1
+2024-02-17,North,Lucknow,Sports,9,2700.9,4.9
+2024-02-18,South,Bengaluru,Electronics,7,9390.75,3.4
+2024-02-19,South,Hyderabad,Apparel,13,2849.39,3.9
+2024-02-20,East,Kolkata,Electronics,8,11735.99,2.8
+2024-02-21,South,Hyderabad,Beauty,7,1471.09,4.4
+2024-02-22,North,Delhi,Electronics,14,15142.08,4.0
+2024-02-23,East,Guwahati,Home & Kitchen,8,4424.65,3.6
+2024-02-24,North,Chandigarh,Electronics,7,10471.92,4.5
+2024-02-25,West,Ahmedabad,Sports,11,3869.95,3.2
+2024-02-26,South,Bengaluru,Electronics,10,14086.96,4.8
+2024-02-27,South,Bengaluru,Electronics,10,13832.51,2.9
+2024-02-28,West,Mumbai,Electronics,12,15448.23,4.6
+2024-02-29,South,Chennai,Electronics,7,10079.36,4.7
+2024-03-01,East,Bhubaneswar,Home & Kitchen,11,4356.01,4.0
+2024-03-02,North,Delhi,Beauty,9,1589.15,5.0
+2024-03-03,North,Delhi,Home & Kitchen,10,4209.94,3.8
+2024-03-04,North,Chandigarh,Beauty,6,1511.44,3.8
+2024-03-05,South,Bengaluru,Apparel,15,3274.86,4.2
+2024-03-06,North,Lucknow,Beauty,11,1866.44,3.5
+2024-03-07,East,Guwahati,Electronics,11,11804.31,4.3
+2024-03-08,South,Hyderabad,Home & Kitchen,11,4388.66,3.5
+2024-03-09,South,Bengaluru,Sports,10,3300.52,3.8
+2024-03-10,South,Hyderabad,Apparel,14,3208.78,3.2
+2024-03-11,North,Chandigarh,Home & Kitchen,10,5029.0,4.6
+2024-03-12,South,Hyderabad,Apparel,10,3064.92,2.9
+2024-03-13,West,Ahmedabad,Sports,7,2311.41,4.2
+2024-03-14,South,Hyderabad,Home & Kitchen,9,4648.51,4.2
+2024-03-15,North,Delhi,Sports,9,2586.19,4.3
+2024-03-16,West,Mumbai,Home & Kitchen,11,5838.19,3.1
+2024-03-17,West,Ahmedabad,Home & Kitchen,9,4836.14,4.5
+2024-03-18,West,Ahmedabad,Sports,12,3848.3,4.8
+2024-03-19,West,Mumbai,Sports,9,3069.64,3.3
+2024-03-20,East,Guwahati,Apparel,8,2192.17,4.4
+2024-03-21,South,Bengaluru,Apparel,10,3213.12,3.1
+2024-03-22,West,Ahmedabad,Electronics,8,10343.05,3.5
+2024-03-23,West,Pune,Electronics,11,14987.09,4.5
+2024-03-24,North,Lucknow,Apparel,6,1831.84,4.5
+2024-03-25,West,Ahmedabad,Sports,11,3212.53,3.3
+2024-03-26,South,Bengaluru,Apparel,6,1869.76,4.3
+2024-03-27,West,Ahmedabad,Electronics,8,12271.11,4.2
+2024-03-28,North,Chandigarh,Home & Kitchen,9,5154.99,3.7
+2024-03-29,West,Mumbai,Electronics,8,11619.25,3.5
+2024-03-30,West,Pune,Sports,11,3757.55,3.0
+2024-03-31,North,Lucknow,Home & Kitchen,12,6112.99,4.2
+2024-04-01,North,Delhi,Beauty,6,1542.44,3.1
+2024-04-02,South,Bengaluru,Home & Kitchen,9,4887.66,4.3
+2024-04-03,East,Kolkata,Home & Kitchen,14,6019.56,4.5
+2024-04-04,South,Bengaluru,Electronics,6,8988.37,4.3
+2024-04-05,West,Pune,Beauty,8,1544.22,4.6
+2024-04-06,South,Chennai,Home & Kitchen,9,4154.56,4.6
+2024-04-07,North,Chandigarh,Home & Kitchen,9,5175.51,4.2
+2024-04-08,North,Chandigarh,Sports,9,2402.18,4.2
+2024-04-09,West,Ahmedabad,Electronics,8,10146.76,4.2
+2024-04-10,West,Pune,Apparel,10,2988.87,4.7
+2024-04-11,North,Chandigarh,Beauty,8,1600.3,4.1
+2024-04-12,West,Pune,Electronics,11,15267.73,3.3
+2024-04-13,East,Bhubaneswar,Electronics,12,13345.97,4.0
+2024-04-14,South,Chennai,Electronics,10,11915.25,3.3
+2024-04-15,West,Ahmedabad,Sports,8,3059.32,3.4
+2024-04-16,West,Ahmedabad,Electronics,10,13879.08,4.0
+2024-04-17,East,Bhubaneswar,Beauty,10,1953.63,3.8
+2024-04-18,East,Bhubaneswar,Electronics,11,14327.28,4.4
+2024-04-19,South,Chennai,Electronics,11,12534.03,4.9
+2024-04-20,East,Kolkata,Sports,8,2778.07,3.5
+2024-04-21,South,Bengaluru,Electronics,7,9280.58,4.9
+2024-04-22,West,Mumbai,Beauty,10,1985.27,3.8
+2024-04-23,South,Chennai,Electronics,10,15429.55,2.9
+2024-04-24,West,Mumbai,Home & Kitchen,10,5288.61,4.6
+2024-04-25,East,Kolkata,Beauty,9,1467.73,4.1
+2024-04-26,South,Hyderabad,Apparel,12,3293.3,4.1
+2024-04-27,West,Pune,Home & Kitchen,9,3506.41,3.0
+2024-04-28,South,Hyderabad,Electronics,10,13931.23,3.2
+2024-04-29,North,Delhi,Electronics,10,12336.42,3.4
+2024-04-30,South,Bengaluru,Sports,11,3567.3,4.3
+2024-05-01,East,Guwahati,Home & Kitchen,11,5642.44,3.1
+2024-05-02,South,Hyderabad,Electronics,7,10941.62,2.9
+2024-05-03,East,Guwahati,Sports,10,3316.73,3.1
+2024-05-04,East,Guwahati,Apparel,9,2292.19,3.8
+2024-05-05,North,Chandigarh,Sports,9,3385.85,3.3
+2024-05-06,North,Lucknow,Sports,12,3334.89,3.2
+2024-05-07,West,Pune,Electronics,11,13415.39,3.9
+2024-05-08,North,Chandigarh,Apparel,10,2393.96,4.7
+2024-05-09,East,Bhubaneswar,Home & Kitchen,10,4181.56,4.6
+2024-05-10,North,Chandigarh,Electronics,7,10881.39,4.5
+2024-05-11,North,Lucknow,Beauty,8,1874.14,3.9
+2024-05-12,West,Ahmedabad,Apparel,7,1948.03,3.1
+2024-05-13,East,Bhubaneswar,Beauty,8,1902.09,4.2
+2024-05-14,South,Hyderabad,Electronics,11,13194.57,3.0
+2024-05-15,North,Chandigarh,Beauty,10,2091.79,4.9
+2024-05-16,East,Guwahati,Sports,10,3041.54,3.8
+2024-05-17,West,Ahmedabad,Electronics,9,10441.8,4.4
+2024-05-18,South,Chennai,Electronics,12,15060.12,4.9
+2024-05-19,East,Kolkata,Electronics,9,11282.8,5.0
+2024-05-20,West,Mumbai,Apparel,9,2649.87,4.5
+2024-05-21,West,Pune,Beauty,15,2354.21,3.3
+2024-05-22,West,Mumbai,Beauty,9,1824.6,3.8
+2024-05-23,West,Pune,Beauty,13,2267.06,3.1
+2024-05-24,North,Delhi,Home & Kitchen,12,5085.02,4.7
+2024-05-25,West,Mumbai,Home & Kitchen,11,4701.52,3.7
+2024-05-26,South,Chennai,Apparel,12,3437.68,4.3
+2024-05-27,North,Chandigarh,Beauty,12,2348.91,3.5
+2024-05-28,West,Ahmedabad,Electronics,8,9550.68,4.8
+2024-05-29,South,Hyderabad,Electronics,15,16594.61,4.3
+2024-05-30,North,Chandigarh,Electronics,7,11347.87,3.5
+2024-05-31,North,Chandigarh,Apparel,9,2576.93,3.7
+2024-06-01,South,Chennai,Electronics,10,13760.25,4.3
+2024-06-02,West,Ahmedabad,Electronics,9,12616.88,3.4
+2024-06-03,North,Chandigarh,Beauty,10,2145.19,3.8
+2024-06-04,East,Guwahati,Electronics,14,16514.42,3.8
+2024-06-05,East,Kolkata,Beauty,11,2351.77,3.6
+2024-06-06,East,Guwahati,Electronics,9,14489.44,4.6
+2024-06-07,West,Pune,Electronics,14,15784.14,4.9
+2024-06-08,West,Pune,Sports,10,2714.09,3.3
+2024-06-09,South,Hyderabad,Electronics,13,14947.37,4.3
+2024-06-10,South,Hyderabad,Electronics,9,13957.57,4.5
+2024-06-11,North,Lucknow,Apparel,9,2104.83,3.5
+2024-06-12,West,Mumbai,Electronics,14,15209.02,3.6
+2024-06-13,East,Kolkata,Electronics,12,15513.46,4.6
+2024-06-14,East,Kolkata,Apparel,8,2016.64,3.3
+2024-06-15,West,Ahmedabad,Apparel,10,3179.71,4.0
+2024-06-16,West,Pune,Home & Kitchen,12,5379.92,4.6
+2024-06-17,East,Kolkata,Home & Kitchen,11,4794.52,4.9
+2024-06-18,East,Guwahati,Electronics,9,9603.42,4.8
+2024-06-19,East,Guwahati,Apparel,10,2126.24,3.5
+2024-06-20,West,Mumbai,Electronics,11,16052.66,3.8
+2024-06-21,West,Ahmedabad,Sports,8,2582.66,3.0
+2024-06-22,West,Ahmedabad,Apparel,11,3452.12,3.6
+2024-06-23,West,Pune,Beauty,11,2373.88,4.3
+2024-06-24,East,Kolkata,Apparel,7,2212.75,4.7
+2024-06-25,West,Mumbai,Home & Kitchen,12,5312.27,2.8
+2024-06-26,East,Kolkata,Beauty,11,2296.67,4.6
+2024-06-27,South,Hyderabad,Electronics,12,15966.71,3.1
+2024-06-28,North,Chandigarh,Beauty,7,1543.02,3.4
+2024-06-29,South,Chennai,Home & Kitchen,6,3509.37,4.5
+2024-06-30,South,Hyderabad,Apparel,7,2193.4,4.4
+2024-07-01,North,Lucknow,Electronics,9,12685.69,4.1
+2024-07-02,West,Ahmedabad,Electronics,12,14002.6,4.8
+2024-07-03,East,Bhubaneswar,Home & Kitchen,9,3531.64,4.7
+2024-07-04,West,Ahmedabad,Electronics,12,14780.75,4.8
+2024-07-05,East,Guwahati,Electronics,8,10174.28,4.1
+2024-07-06,East,Bhubaneswar,Beauty,10,2004.39,4.1
+2024-07-07,North,Lucknow,Electronics,13,14346.64,4.0
+2024-07-08,South,Bengaluru,Apparel,8,2290.5,3.8
+2024-07-09,West,Ahmedabad,Electronics,11,12562.61,3.6
+2024-07-10,South,Hyderabad,Beauty,9,1459.76,3.0
+2024-07-11,North,Lucknow,Sports,13,3903.06,4.1
+2024-07-12,East,Guwahati,Electronics,10,12002.19,4.5
+2024-07-13,North,Chandigarh,Home & Kitchen,10,4497.09,3.3
+2024-07-14,West,Mumbai,Sports,10,2996.4,3.1
+2024-07-15,East,Guwahati,Electronics,10,12615.59,4.5
+2024-07-16,North,Lucknow,Beauty,11,2368.17,3.2
+2024-07-17,East,Bhubaneswar,Apparel,7,2222.3,4.2
+2024-07-18,North,Delhi,Sports,11,4232.26,4.0
+2024-07-19,West,Pune,Apparel,8,2184.73,3.5
+2024-07-20,North,Delhi,Electronics,10,15222.05,3.0
+2024-07-21,West,Ahmedabad,Apparel,11,2929.34,3.3
+2024-07-22,North,Chandigarh,Apparel,10,2395.62,3.9
+2024-07-23,East,Kolkata,Electronics,11,17067.79,3.2
+2024-07-24,South,Chennai,Sports,8,2889.66,3.9
+2024-07-25,West,Mumbai,Electronics,10,13494.76,4.0
+2024-07-26,East,Kolkata,Apparel,12,3159.39,3.8
+2024-07-27,North,Chandigarh,Home & Kitchen,12,5186.79,3.7
+2024-07-28,North,Chandigarh,Electronics,11,11860.49,4.2
+2024-07-29,East,Kolkata,Apparel,8,2109.22,3.7
+2024-07-30,North,Chandigarh,Beauty,11,2283.38,4.5
+2024-07-31,North,Lucknow,Home & Kitchen,9,5068.39,4.5
+2024-08-01,East,Guwahati,Beauty,10,2165.51,3.0
+2024-08-02,East,Kolkata,Electronics,9,10517.23,3.0
+2024-08-03,West,Pune,Sports,12,3840.57,4.8
+2024-08-04,East,Guwahati,Apparel,10,2669.89,4.2
+2024-08-05,East,Guwahati,Electronics,10,13360.56,3.8
+2024-08-06,North,Chandigarh,Sports,9,2482.07,4.7
+2024-08-07,West,Pune,Home & Kitchen,15,6353.47,2.9
+2024-08-08,South,Bengaluru,Home & Kitchen,13,4999.1,3.8
+2024-08-09,East,Guwahati,Electronics,9,14494.37,4.4
+2024-08-10,West,Ahmedabad,Home & Kitchen,8,3975.84,3.4
+2024-08-11,West,Pune,Home & Kitchen,8,3658.38,3.5
+2024-08-12,East,Kolkata,Home & Kitchen,9,4663.42,4.7
+2024-08-13,South,Bengaluru,Electronics,14,14660.53,3.5
+2024-08-14,West,Mumbai,Home & Kitchen,12,6324.74,3.6
+2024-08-15,East,Kolkata,Home & Kitchen,14,5999.75,4.3
+2024-08-16,North,Lucknow,Home & Kitchen,9,5038.53,3.5
+2024-08-17,South,Bengaluru,Beauty,9,1989.57,3.1
+2024-08-18,North,Chandigarh,Sports,9,2544.49,4.6
+2024-08-19,North,Lucknow,Apparel,11,3234.35,3.6
+2024-08-20,South,Chennai,Sports,14,3892.58,3.2
+2024-08-21,West,Mumbai,Apparel,11,3086.61,3.8
+2024-08-22,East,Guwahati,Sports,8,2816.19,4.9
+2024-08-23,West,Mumbai,Apparel,16,3543.25,3.8
+2024-08-24,East,Bhubaneswar,Home & Kitchen,9,4785.47,3.2
+2024-08-25,South,Bengaluru,Electronics,10,13265.69,4.9
+2024-08-26,North,Chandigarh,Electronics,8,10691.2,3.9
+2024-08-27,West,Mumbai,Beauty,9,1679.03,3.6
+2024-08-28,North,Chandigarh,Electronics,10,13456.19,5.0
+2024-08-29,East,Kolkata,Electronics,16,16921.73,4.2
+2024-08-30,South,Chennai,Electronics,13,16820.89,4.6
+2024-08-31,West,Pune,Home & Kitchen,11,6275.71,3.3
+2024-09-01,South,Hyderabad,Beauty,11,2151.54,4.5
+2024-09-02,South,Bengaluru,Electronics,9,11356.07,4.2
+2024-09-03,North,Delhi,Sports,11,3368.65,4.2
+2024-09-04,South,Hyderabad,Electronics,11,12909.6,3.3
+2024-09-05,West,Mumbai,Home & Kitchen,10,3800.42,2.9
+2024-09-06,North,Chandigarh,Beauty,7,1469.74,3.6
+2024-09-07,North,Chandigarh,Sports,11,3060.73,4.2
+2024-09-08,East,Kolkata,Electronics,13,13878.88,3.2
+2024-09-09,West,Ahmedabad,Apparel,7,2278.37,4.4
+2024-09-10,West,Mumbai,Electronics,7,9817.9,2.9
+2024-09-11,East,Guwahati,Apparel,13,3350.69,2.9
+2024-09-12,South,Bengaluru,Apparel,15,3293.72,3.5
+2024-09-13,North,Chandigarh,Apparel,10,2650.84,4.9
+2024-09-14,East,Kolkata,Apparel,13,2817.06,3.9
+2024-09-15,North,Lucknow,Apparel,12,2704.98,3.2
+2024-09-16,East,Bhubaneswar,Electronics,9,12154.58,3.8
+2024-09-17,West,Mumbai,Home & Kitchen,8,4632.07,4.7
+2024-09-18,East,Guwahati,Beauty,11,1759.65,4.9
+2024-09-19,North,Lucknow,Home & Kitchen,11,4672.09,4.3
+2024-09-20,North,Delhi,Sports,12,3757.21,3.1
+2024-09-21,South,Hyderabad,Apparel,10,2631.09,4.1
+2024-09-22,West,Pune,Apparel,13,3278.16,4.0
+2024-09-23,West,Pune,Home & Kitchen,8,4332.54,4.4
+2024-09-24,West,Ahmedabad,Apparel,10,2938.61,3.4
+2024-09-25,West,Mumbai,Beauty,11,1778.59,3.9
+2024-09-26,North,Delhi,Beauty,12,1983.34,3.8
+2024-09-27,North,Lucknow,Beauty,15,2639.44,4.4
+2024-09-28,East,Bhubaneswar,Beauty,14,2303.65,4.2
+2024-09-29,East,Guwahati,Electronics,16,17600.0,3.3
+2024-09-30,West,Mumbai,Apparel,11,2964.46,5.0
+2024-10-01,South,Hyderabad,Beauty,8,1513.36,4.4
+2024-10-02,West,Ahmedabad,Apparel,11,2689.22,3.1
+2024-10-03,East,Guwahati,Electronics,11,13376.05,3.1
+2024-10-04,South,Chennai,Apparel,11,3547.64,3.1
+2024-10-05,South,Bengaluru,Electronics,11,12213.68,3.6
+2024-10-06,East,Kolkata,Electronics,12,14782.06,3.1
+2024-10-07,East,Guwahati,Home & Kitchen,9,5137.92,4.9
+2024-10-08,South,Chennai,Home & Kitchen,13,5811.66,4.7
+2024-10-09,North,Delhi,Electronics,16,17376.9,3.4
+2024-10-10,South,Hyderabad,Apparel,12,3091.74,4.2
+2024-10-11,East,Guwahati,Beauty,12,2034.56,4.3
+2024-10-12,East,Bhubaneswar,Electronics,8,10089.84,3.9
+2024-10-13,South,Bengaluru,Home & Kitchen,11,4565.11,4.4
+2024-10-14,East,Bhubaneswar,Electronics,10,12656.13,3.5
+2024-10-15,West,Mumbai,Electronics,8,11651.66,3.4
+2024-10-16,West,Ahmedabad,Apparel,16,3655.57,4.6
+2024-10-17,East,Kolkata,Sports,11,3431.43,3.9
+2024-10-18,East,Bhubaneswar,Electronics,14,17418.1,4.9
+2024-10-19,South,Hyderabad,Apparel,8,2092.38,4.7
+2024-10-20,West,Pune,Home & Kitchen,13,6233.94,4.7
+2024-10-21,East,Bhubaneswar,Apparel,11,2696.45,3.2
+2024-10-22,East,Kolkata,Apparel,11,2783.3,4.6
+2024-10-23,North,Delhi,Beauty,12,1934.86,3.5
+2024-10-24,East,Kolkata,Electronics,11,13857.44,2.9
+2024-10-25,South,Hyderabad,Apparel,11,2827.25,4.1
+2024-10-26,South,Bengaluru,Beauty,9,1843.81,4.2
+2024-10-27,East,Guwahati,Apparel,13,3441.3,4.4
+2024-10-28,East,Bhubaneswar,Sports,11,3178.88,5.0
+2024-10-29,East,Guwahati,Beauty,12,2232.48,3.4
+2024-10-30,South,Hyderabad,Electronics,11,13655.9,4.4
+2024-10-31,West,Mumbai,Sports,10,2921.42,4.3
+2024-11-01,South,Chennai,Apparel,12,3151.97,3.2
+2024-11-02,West,Ahmedabad,Sports,15,4468.98,4.0
+2024-11-03,West,Ahmedabad,Apparel,16,4225.02,4.0
+2024-11-04,East,Guwahati,Sports,15,4509.04,4.3
+2024-11-05,West,Mumbai,Beauty,10,2072.93,4.9
+2024-11-06,East,Bhubaneswar,Sports,14,4439.59,3.9
+2024-11-07,East,Bhubaneswar,Electronics,13,17635.74,5.0
+2024-11-08,East,Kolkata,Electronics,12,13920.07,3.6
+2024-11-09,West,Ahmedabad,Electronics,11,15759.37,4.0
+2024-11-10,East,Kolkata,Electronics,13,18274.33,2.9
+2024-11-11,South,Hyderabad,Electronics,9,12141.76,3.8
+2024-11-12,South,Chennai,Beauty,14,3084.41,4.2
+2024-11-13,West,Pune,Home & Kitchen,14,6915.79,3.4
+2024-11-14,North,Delhi,Home & Kitchen,12,5034.17,4.7
+2024-11-15,North,Delhi,Apparel,18,4008.82,2.9
+2024-11-16,West,Pune,Electronics,17,18399.63,3.4
+2024-11-17,North,Delhi,Electronics,16,17002.54,3.5
+2024-11-18,West,Ahmedabad,Home & Kitchen,15,5986.23,4.7
+2024-11-19,West,Pune,Electronics,8,12303.44,3.8
+2024-11-20,East,Guwahati,Electronics,17,18312.19,4.0
+2024-11-21,South,Chennai,Home & Kitchen,13,6516.68,3.7
+2024-11-22,East,Kolkata,Apparel,12,2531.9,3.9
+2024-11-23,South,Chennai,Electronics,12,13508.37,4.9
+2024-11-24,East,Guwahati,Sports,10,2838.61,4.3
+2024-11-25,North,Lucknow,Electronics,11,14207.32,3.9
+2024-11-26,East,Guwahati,Electronics,15,20091.08,4.2
+2024-11-27,South,Chennai,Apparel,15,3260.3,3.6
+2024-11-28,West,Ahmedabad,Sports,17,4808.58,4.3
+2024-11-29,North,Lucknow,Apparel,12,3763.71,4.0
+2024-11-30,North,Lucknow,Beauty,11,1983.99,3.2
+2024-12-01,West,Mumbai,Home & Kitchen,15,6828.16,4.8
+2024-12-02,West,Mumbai,Apparel,13,3384.69,2.9
+2024-12-03,West,Ahmedabad,Sports,14,4571.39,4.6
+2024-12-04,South,Hyderabad,Electronics,13,15393.64,4.0
+2024-12-05,North,Delhi,Beauty,12,2380.3,3.2
+2024-12-06,South,Hyderabad,Beauty,14,2633.89,5.0
+2024-12-07,West,Pune,Beauty,15,3014.28,4.3
+2024-12-08,South,Hyderabad,Beauty,12,1869.32,3.7
+2024-12-09,South,Hyderabad,Beauty,17,2912.17,5.0
+2024-12-10,West,Ahmedabad,Sports,12,3859.33,3.3
+2024-12-11,West,Pune,Electronics,12,13156.17,4.5
+2024-12-12,North,Lucknow,Apparel,18,3910.71,2.8
+2024-12-13,South,Chennai,Electronics,10,11662.26,4.3
+2024-12-14,North,Delhi,Sports,11,3812.79,3.3
+2024-12-15,North,Delhi,Home & Kitchen,13,5309.52,4.4
+2024-12-16,East,Guwahati,Home & Kitchen,13,6710.09,3.5
+2024-12-17,South,Hyderabad,Home & Kitchen,11,5767.71,4.0
+2024-12-18,South,Hyderabad,Home & Kitchen,11,6289.74,3.6
+2024-12-19,West,Ahmedabad,Apparel,11,3212.62,3.6
+2024-12-20,West,Mumbai,Sports,12,3575.17,4.6
+2024-12-21,North,Lucknow,Apparel,13,3215.72,3.7
+2024-12-22,East,Kolkata,Apparel,9,2531.4,3.6
+2024-12-23,South,Chennai,Electronics,15,17957.99,4.7
+2024-12-24,South,Hyderabad,Sports,13,4211.18,4.7
+2024-12-25,East,Bhubaneswar,Beauty,11,1731.56,4.9
+2024-12-26,North,Lucknow,Beauty,12,2411.71,4.1
+2024-12-27,South,Bengaluru,Beauty,15,2519.99,3.6
+2024-12-28,East,Bhubaneswar,Electronics,13,16423.13,3.0
+2024-12-29,West,Pune,Beauty,12,2255.97,4.0
+2024-12-30,South,Hyderabad,Electronics,13,13970.31,4.1
+2024-01-01,West,Pune,Electronics,10,12741.47,4.6
+2024-01-02,West,Ahmedabad,Home & Kitchen,11,5913.92,4.6
+2024-01-03,West,Pune,Electronics,12,16715.55,4.4
+2024-01-04,West,Mumbai,Beauty,12,2185.08,2.9
+2024-01-05,North,Delhi,Beauty,14,2347.29,3.7
+2024-01-06,South,Chennai,Sports,8,2508.0,3.6
+2024-01-07,West,Ahmedabad,Apparel,8,2086.38,2.8
+2024-01-08,East,Guwahati,Beauty,9,1516.32,4.3
+2024-01-09,South,Chennai,Beauty,10,2166.95,4.2
+2024-01-10,East,Bhubaneswar,Electronics,10,13362.84,3.7
+2024-01-11,South,Hyderabad,Electronics,15,15823.56,4.2
+2024-01-12,North,Delhi,Apparel,10,2751.12,4.2
+2024-01-13,South,Chennai,Apparel,12,2853.43,4.0
+2024-01-14,North,Lucknow,Beauty,11,1793.19,4.3
+2024-01-15,West,Pune,Electronics,10,10628.55,4.8
+2024-01-16,North,Delhi,Beauty,12,1903.58,4.1
+2024-01-17,West,Mumbai,Electronics,12,14834.22,4.7
+2024-01-18,East,Bhubaneswar,Sports,11,2801.13,4.4
+2024-01-19,East,Kolkata,Electronics,8,12000.12,4.1
+2024-01-20,West,Pune,Electronics,12,12358.6,3.9
+2024-01-21,East,Guwahati,Beauty,12,2058.73,4.3
+2024-01-22,North,Lucknow,Electronics,8,12138.11,3.4
+2024-01-23,West,Ahmedabad,Sports,9,2837.78,3.6
+2024-01-24,North,Delhi,Beauty,12,2077.94,3.0
+2024-01-25,North,Delhi,Apparel,12,3088.35,3.0
+2024-01-26,North,Chandigarh,Home & Kitchen,14,5690.23,4.7
+2024-01-27,North,Chandigarh,Apparel,15,3489.37,4.0
+2024-01-28,South,Hyderabad,Home & Kitchen,11,5980.42,3.4
+2024-01-29,East,Bhubaneswar,Electronics,8,11491.06,3.5
+2024-01-30,North,Chandigarh,Electronics,10,12180.01,4.1
+2024-01-31,South,Bengaluru,Electronics,12,12685.76,3.5
+2024-02-01,West,Pune,Apparel,12,2870.32,4.2
+2024-02-02,South,Bengaluru,Apparel,13,3800.35,3.5
+2024-02-03,West,Pune,Electronics,13,16071.03,4.1
+2024-02-04,South,Bengaluru,Apparel,13,3568.2,3.1

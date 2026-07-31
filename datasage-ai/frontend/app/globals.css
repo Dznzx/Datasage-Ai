@@ -1,0 +1,97 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --font-display: "Space Grotesk", sans-serif;
+  --font-body: "Inter", sans-serif;
+  --font-mono: "JetBrains Mono", monospace;
+}
+
+* {
+  border-color: rgba(255, 255, 255, 0.08);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  @apply bg-base-900 text-ink font-body antialiased;
+  background-image: radial-gradient(70% 60% at 15% -10%, rgba(124, 124, 240, 0.14), transparent 55%),
+    radial-gradient(55% 50% at 90% 0%, rgba(52, 226, 196, 0.12), transparent 55%);
+  background-attachment: fixed;
+}
+
+html.light body {
+  @apply bg-[#F6F7FA] text-[#10131C];
+  background-image: radial-gradient(70% 60% at 15% -10%, rgba(124, 124, 240, 0.08), transparent 55%),
+    radial-gradient(55% 50% at 90% 0%, rgba(52, 226, 196, 0.08), transparent 55%);
+}
+
+::selection {
+  background: rgba(52, 226, 196, 0.35);
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.14);
+  border-radius: 999px;
+}
+html.light ::-webkit-scrollbar-thumb {
+  background: rgba(10, 15, 25, 0.14);
+}
+
+:focus-visible {
+  outline: 2px solid #34e2c4;
+  outline-offset: 2px;
+  border-radius: 4px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+.glass {
+  @apply bg-surface backdrop-blur-xl border border-border;
+}
+html.light .glass {
+  @apply bg-surface-light border-border-light;
+}
+
+.glass-card {
+  @apply glass rounded-xl2 shadow-card;
+}
+
+.text-gradient {
+  background: linear-gradient(120deg, #e7ecf5 10%, #7cfce5 55%, #7c7cf0 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.mono-num {
+  font-family: var(--font-mono);
+  font-variant-numeric: tabular-nums;
+}
+
+.chip {
+  @apply inline-flex items-center gap-1.5 rounded-full border border-border px-3.5 py-1.5 text-sm text-ink-soft transition-all duration-200;
+}
+.chip:hover {
+  @apply border-sage/50 text-sage bg-sage/5;
+  transform: translateY(-1px);
+}
